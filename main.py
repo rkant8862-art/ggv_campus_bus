@@ -835,7 +835,7 @@ def index():
 
 
 # ---------------------------------------------------------------------------
-if __name__ == "__main__":
+#if __name__ == "__main__":
     # host="0.0.0.0" taaki ESP32 (same WiFi/LAN par) is server tak pahunch sake.
     # threaded=True taaki browser ka GET /location poll aur ESP32 ka POST /update
     # ek saath handle ho sake.
