@@ -1,4 +1,4 @@
-""" Rktech 
+""" Rktech 2nd
 City Connect — Live Bus Tracker
 ================================
 EK HI PYTHON FILE — frontend (HTML/CSS/JS) + backend (Flask API) dono isi
